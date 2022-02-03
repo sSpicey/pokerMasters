@@ -1,0 +1,90 @@
+# depslib dependency file v1.0
+1511457879 source:c:\users\daeln\downloads\1a\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	"funcoes.h"
+	<time.h>
+	"tristto.h"
+	<windows.h>
+	<conio.h>
+	<pthread.h>
+
+1511456880 c:\users\daeln\downloads\1a\funcoes.h
+	"tristto.h"
+
+1511457354 source:c:\users\daeln\downloads\1a\main.c
+	<stdlib.h>
+	<stdio.h>
+	"funcoes.h"
+	"tristto.h"
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<pthread.h>
+
+1511456948 source:c:\users\daeln\downloads\1a\tristto.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<pthread.h>
+	"tristto.h"
+
+1511457759 c:\users\daeln\downloads\1a\tristto.h
+	<windows.h>
+
+1512494078 source:c:\edu\utfpr\prog1\game_poker\funcoes.c
+	"funcoes.h"
+
+1512477412 c:\edu\utfpr\prog1\game_poker\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"tristto.h"
+	<windows.h>
+	<conio.h>
+	<pthread.h>
+
+1512394192 c:\edu\utfpr\prog1\game_poker\tristto.h
+	<windows.h>
+
+1512442549 source:c:\edu\utfpr\prog1\game_poker\main.c
+	"funcoes.h"
+
+1512394656 source:c:\edu\utfpr\prog1\game_poker\tristto.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<pthread.h>
+	"tristto.h"
+
+1512612031 source:c:\edu\utfpr\prog1\game_poker\backup\funcoes.c
+	"funcoes.h"
+
+1512612031 c:\edu\utfpr\prog1\game_poker\backup\funcoes.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"tristto.h"
+	<windows.h>
+	<conio.h>
+	<pthread.h>
+
+1512602166 c:\edu\utfpr\prog1\game_poker\backup\tristto.h
+	<windows.h>
+
+1512612555 source:c:\edu\utfpr\prog1\game_poker\backup\main.c
+	"funcoes.h"
+
+1512394656 source:c:\edu\utfpr\prog1\game_poker\backup\tristto.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<pthread.h>
+	"tristto.h"
+
